@@ -1,0 +1,6 @@
+AWSIoTPythonSDK==1.4.8
+nxt-python==2.2.2
+PyBluez==0.22
+pyserial==3.4
+pyusb==1.0.2
+RPi.GPIO==0.7.0
